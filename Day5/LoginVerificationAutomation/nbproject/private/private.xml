@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/concretes/MailManager.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/concretes/UsernameManager.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/abstracts/MailService.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/concretes/VerificationManager.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Entities/concretes/User.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/loginverificationautomation/Main.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/abstracts/PasswordService.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/abstracts/UsernameService.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/abstracts/VerificationService.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/concretes/PasswordManager.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Entities/abstracts/EntitiyService.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/abstracts/UserService.java</file>
+            <file>file:/D:/school%20works/programming/Java/LoginVerificationAutomation/src/Business/concretes/UserManager.java</file>
+        </group>
+    </open-files>
+</project-private>
